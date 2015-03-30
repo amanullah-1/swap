@@ -1,8 +1,8 @@
 <?php
 //initialize 2 variables
 
-$a= 'hello';
-$b= 'okay!';
+$a= '10';
+$b= '34';
 //print the variables 
 
 echo 'a = '.$a.' '.'b= '.$b; // a= 10 b= 34
